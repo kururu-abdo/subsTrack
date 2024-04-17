@@ -1,17 +1,11 @@
-# finance_app
+# SubsTrack
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application.![substrack](https://github.com/kururu-abdo/subsTrack/assets/45058799/56a80183-d660-4c64-ba00-f926e38169d7)
+![substrack2](https://github.com/kururu-abdo/subsTrack/assets/45058799/82606562-751b-40b3-aecc-d0bb92a4eb85)
+![substrack 3](https://github.com/kururu-abdo/subsTrack/assets/45058799/88ee9804-6235-4b8d-9816-a525272d87d3)
+![substrack 4](https://github.com/kururu-abdo/subsTrack/assets/45058799/8d0ded3a-5858-40dc-a312-bfee72779a53)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# subsTrack
